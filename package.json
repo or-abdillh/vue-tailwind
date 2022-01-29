@@ -1,0 +1,21 @@
+{
+  "name": "vue-tailwind-template",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.2",
+    "pinia": "^2.0.10",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.18",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.0.0",
+    "vite": "^2.7.2"
+  }
+}
