@@ -2,7 +2,7 @@
 	<footer class="mt-16 text-center">
 		<p>
 			Created by 
-			<a class="text-blue-500 font-medium" href="" >Oka R. Abdillah</a>
+			<a class="text-blue-500 font-medium" href="https://github.com/or-abdillh" target="_blank" >Oka R. Abdillah</a>
 		</p>
 		<small>
 			Made with <i class="fa fa-heart text-pink-500"></i>
