@@ -20,7 +20,6 @@ Using the fixed layout concept, it is very suitable for developing web for a spe
 - Basic of components and props
 - Basic routing
 - Include web manifest and icons
-- Include openGrapgh OG 
 
 ### Clone This Repo
 - <code>git clone https://github.com/or-abdillh/vue-tailwind.git </code>
