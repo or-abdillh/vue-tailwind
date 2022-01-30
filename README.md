@@ -1,7 +1,36 @@
-# Vue 3 + Vite
+<h3 align="center">Vue Tailwind</h3>
+<p align="center">A simple starter template for Vue JS + Tailwind</p>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<img src="./src/assets/banner.png" width="100%" alt="">
 
-## Recommended IDE Setup
+### About
+This is my project on creating a simple starter template for Vue JS and Tailwind.
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+Using the fixed layout concept, it is very suitable for developing web for a special mobile display
+
+### Features
+- Vue JS 3
+- Tailwindcss
+- Pinia
+- Vue Router
+- Font Awesome 5
+- Google Font Poppins
+- Fixed layout
+- Script setup
+- Basic of components and props
+- Basic routing
+- Include web manifest and icons
+- Include openGrapgh OG 
+
+### Clone This Repo
+- <code>git clone https://github.com/or-abdillh/vue-tailwind.git </code>
+- <code>cd vue-tailwind</code>
+- <code>npm install</code>
+- <code>npm run dev</code>
+
+### Demo 
+- [Vue Tailwind](https://vue-tailwind-starter.vercel.app/)
+
+[Oka R Abdillah ](http://github.com/or-abdillh)
+<br>
+Last edited on : 30/01/2022
